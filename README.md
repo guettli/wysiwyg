@@ -1,6 +1,6 @@
 # List of WYSIWYG editors
 
-* https://quilljs.com/
+* https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
 * https://ckeditor.com/ 
 * https://www.tiny.cloud/ (used [staffbase](https://staffbase.com/))
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/))
