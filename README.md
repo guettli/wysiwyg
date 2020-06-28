@@ -7,6 +7,8 @@
 * https://github.com/ianstormtaylor/slate [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec)
 * https://wordpress.org/plugins/gutenberg/ Gutenberg of WordPress
 
+List of react based WYSIWYG editors:
+https://ourcodeworld.com/articles/read/1065/top-15-best-rich-text-editor-components-wysiwyg-for-reactjs
 
 Related List: 
 
