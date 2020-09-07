@@ -6,6 +6,7 @@
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables
 * https://github.com/ianstormtaylor/slate (can show, but not edit tables. See [tables Example](https://www.slatejs.org/examples/tables)) [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec)
 * https://wordpress.org/plugins/gutenberg/ Gutenberg of WordPress
+* https://xdsoft.net/jodit/ (supports tables)
 
 List of react based WYSIWYG editors:
 https://ourcodeworld.com/articles/read/1065/top-15-best-rich-text-editor-components-wysiwyg-for-reactjs
