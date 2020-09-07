@@ -5,7 +5,7 @@
 * https://github.com/tinymce/tinymce (oldest, 21k commits. Started 2006. Dated code base?)
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables
 * https://github.com/ianstormtaylor/slate (can show, but not edit tables. See [tables Example](https://www.slatejs.org/examples/tables)) [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec)
-* https://wordpress.org/plugins/gutenberg/ Gutenberg of WordPress
+* https://wordpress.org/plugins/gutenberg/ Editor of WordPress. But AFAIK can't be used outside Wordpress
 * https://xdsoft.net/jodit/ (supports tables)
 * https://froala.com/wysiwyg-editor/ (commercial)
 * https://summernote.org/ (supports tables)
