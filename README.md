@@ -9,6 +9,7 @@
 * https://xdsoft.net/jodit/ (supports tables)
 * https://froala.com/wysiwyg-editor/ (commercial)
 * https://summernote.org/ (supports tables)
+* https://github.com/facebook/draft-js (from Facebook, but no tables support)
 
 List of react based WYSIWYG editors:
 https://ourcodeworld.com/articles/read/1065/top-15-best-rich-text-editor-components-wysiwyg-for-reactjs
