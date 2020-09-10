@@ -1,7 +1,7 @@
 # List of WYSIWYG editors
 
 * https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
-* https://ckeditor.com/ (version 4 is open source, version 5 not)
+* https://ckeditor.com/ (version 4 is open source, version 5 not). Wiki.js uses CKEditor5
 * https://github.com/tinymce/tinymce (oldest, 21k commits. Started 2006. Dated code base?)
 * https://github.com/facebook/draft-js (from Facebook, but no tables support)
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables. Based on Draft.js
