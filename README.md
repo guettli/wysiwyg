@@ -10,7 +10,7 @@
 * https://xdsoft.net/jodit/ (supports tables)
 * https://froala.com/wysiwyg-editor/ (commercial)
 * https://summernote.org/ (supports tables)
-
+* http://jejacks0n.github.io/mercury/documentation/ MIT License.
 
 Related List: 
 
