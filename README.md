@@ -15,7 +15,7 @@
 Commercial:
 
 * https://handsontable.com/examples
-* https://froala.com/wysiwyg-editor/ (commercial)
+* https://froala.com/wysiwyg-editor/
 
 Related List: 
 
