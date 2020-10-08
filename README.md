@@ -13,6 +13,10 @@
 * https://summernote.org/ (supports tables)
 * http://jejacks0n.github.io/mercury/documentation/ MIT License.
 
+Commercial:
+
+* https://handsontable.com/examples?headers
+
 Related List: 
 
 * https://en.wikipedia.org/wiki/Category:JavaScript-based_HTML_editors
