@@ -2,13 +2,13 @@
 
 Good:
 
-* https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
 * https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code)
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. Current favorite.
 * https://github.com/tinymce/tinymce (oldest, LGPL, 21k commits. Started 2006)
 
 Something is missing:
 
+* https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
 * https://ckeditor.com/ckeditor-5/ ([License](https://github.com/ckeditor/ckeditor5/blob/master/LICENSE.md) GPL, not compatible with closed source code)
 * https://github.com/facebook/draft-js (from Facebook, but no tables support)
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables. Based on Draft.js
