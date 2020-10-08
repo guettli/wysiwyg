@@ -10,7 +10,7 @@
 * https://wordpress.org/plugins/gutenberg/ Editor of WordPress. But AFAIK can't be used outside Wordpress
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good.
 * https://summernote.org/ (supports tables, but only limited. Resizing the width did not work [ticket](https://github.com/summernote/summernote/issues/3883))
-* http://jejacks0n.github.io/mercury/documentation/ MIT License.
+* http://jejacks0n.github.io/mercury/documentation/ MIT License. No updates since 2014
 
 Commercial:
 
