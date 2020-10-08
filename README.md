@@ -5,7 +5,7 @@ Good:
 * https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
 * https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code)
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. Current favorite.
-* https://github.com/tinymce/tinymce (oldest, 21k commits. Started 2006)
+* https://github.com/tinymce/tinymce (oldest, LGPL, 21k commits. Started 2006)
 
 Something is missing:
 
