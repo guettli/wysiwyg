@@ -32,3 +32,8 @@ Related List:
 Related Questions:
 
 * https://www.reddit.com/r/reactjs/comments/eqdxpu/best_react_wysiwyg_editor_in_2020_quilljs_vs/
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
