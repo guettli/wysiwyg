@@ -10,11 +10,9 @@ Good:
 * https://github.com/matthiask/django-content-editor (based on CKEditor4)
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables)
 * https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
-
+* https://quilljs.com/ no tables
 
 Something is missing:
-
-* https://quilljs.com/ support for tables: [quill-better-table](https://github.com/soccerloway/quill-better-table)
 * https://ckeditor.com/ckeditor-5/ ([License](https://github.com/ckeditor/ckeditor5/blob/master/LICENSE.md) GPL, not compatible with closed source code)
 * https://github.com/facebook/draft-js (from Facebook, but no tables support)
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables. Based on Draft.js
