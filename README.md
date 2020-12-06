@@ -6,6 +6,7 @@ Good:
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. Current favorite.
 * https://github.com/tinymce/tinymce (oldest, LGPL, 21k commits. Started 2006)
 * https://github.com/matthiask/django-content-editor (based on CKEditor4)
+* https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables)
 
 Something is missing:
 
