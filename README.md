@@ -1,5 +1,7 @@
 # List of WYSIWYG editors
 
+Related: https://github.com/topics/wysiwyg-editor
+
 Good:
 
 * https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code)
