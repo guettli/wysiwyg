@@ -1,6 +1,8 @@
 # List of WYSIWYG editors
 
-Related: https://github.com/topics/wysiwyg-editor
+Related: 
+* https://github.com/topics/wysiwyg-editor
+* https://github.com/guettli/data-grids
 
 Good:
 
