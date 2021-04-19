@@ -12,7 +12,7 @@ Good:
 * https://github.com/matthiask/django-content-editor (based on CKEditor4)
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables). No more much development: [graph](https://github.com/basecamp/trix/graphs/contributors)
 * https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
-* https://quilljs.com/ no tables
+* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors)
 * https://github.com/nextcloud/text
 * https://github.com/codex-team/editor.js (Apache License)
 
@@ -24,6 +24,7 @@ Something is missing:
 * https://wordpress.org/plugins/gutenberg/ Editor of WordPress. But AFAIK can't be used outside Wordpress
 * https://summernote.org/ (supports tables, but only limited. Resizing the width did not work [ticket](https://github.com/summernote/summernote/issues/3883))
 * http://jejacks0n.github.io/mercury/documentation/ MIT License. No updates since 2014
+* https://github.com/yabwe/medium-editor/graphs/contributors no progress in the last year
 
 Commercial:
 
