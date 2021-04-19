@@ -13,7 +13,6 @@ Related:
 Good:
 
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean)
-* https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
 * https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. Currently my favorite
 
 Something is missing:
@@ -30,6 +29,7 @@ Something is missing:
 * http://jejacks0n.github.io/mercury/documentation/ MIT License. No updates since 2014
 * https://github.com/yabwe/medium-editor/graphs/contributors no progress in the last year
 * https://github.com/nextcloud/text (AGPL License)
+* https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
 
 Commercial:
 
