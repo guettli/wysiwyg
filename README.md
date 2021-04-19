@@ -11,6 +11,7 @@ Good:
 
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean)
 * https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. Currently my favorite
+* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company
 
 Something is missing:
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables). No more much development: [graph](https://github.com/basecamp/trix/graphs/contributors)
