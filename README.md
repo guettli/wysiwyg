@@ -6,16 +6,15 @@ Related:
 
 Good:
 
-* https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code)
-* https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. Current favorite.
+* https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean)
 * https://github.com/tinymce/tinymce (oldest, LGPL, 21k commits. Started 2006)
-* https://github.com/matthiask/django-content-editor (based on CKEditor4)
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables). No more much development: [graph](https://github.com/basecamp/trix/graphs/contributors)
 * https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
-* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors)
-* https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables
+* https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. Currently my favorite
 
 Something is missing:
+* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors)
+* https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code. But future is unclear)
 * https://ckeditor.com/ckeditor-5/ ([License](https://github.com/ckeditor/ckeditor5/blob/master/LICENSE.md) GPL, not compatible with closed source code)
 * https://github.com/facebook/draft-js (from Facebook, but no tables support)
 * https://www.draftail.org/ (used by [wagtail](https://wagtail.io/)). No support for tables. Based on Draft.js
