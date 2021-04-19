@@ -6,9 +6,6 @@ My requirements:
 * easy to use is more important than many fancy features
 * No need to support old browsers. IE11 is dead.
 
-Related: 
-* https://github.com/topics/wysiwyg-editor
-* https://github.com/guettli/data-grids
 
 Good:
 
@@ -41,6 +38,7 @@ Related List:
 
 * https://en.wikipedia.org/wiki/Category:JavaScript-based_HTML_editors
 * https://djangopackages.org/grids/g/wysiwyg/
+* https://github.com/topics/wysiwyg-editor
 
 Related Questions:
 
