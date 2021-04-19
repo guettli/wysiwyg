@@ -14,7 +14,7 @@ Good:
 * https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
 * https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors)
 * https://github.com/nextcloud/text
-* https://github.com/codex-team/editor.js (Apache License)
+* https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables
 
 Something is missing:
 * https://ckeditor.com/ckeditor-5/ ([License](https://github.com/ckeditor/ckeditor5/blob/master/LICENSE.md) GPL, not compatible with closed source code)
