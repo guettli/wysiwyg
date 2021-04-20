@@ -13,12 +13,12 @@ Good:
 * https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. Currently my favorite used-by=1.6k
 * https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220
 * https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k
+* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) use-by=50k history-support.
 
 Something is missing:
 * https://github.com/ianstormtaylor/slate (can show, but not edit tables. See [tables Example](https://www.slatejs.org/examples/tables)) [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec) used-by=55k. Does not feel fluent for me.
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables). No more much development: [graph](https://github.com/basecamp/trix/graphs/contributors) used-by=5k
 * https://github.com/tinymce/tinymce (oldest, LGPL, 21k commits. Started 2006. too old)
-* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) use-by=50k
 * https://ckeditor.com/ckeditor-4/ ([License](https://github.com/ckeditor/ckeditor4/blob/master/LICENSE.md) LGPL, compatible with closed source code. But future is unclear)
 * https://ckeditor.com/ckeditor-5/ ([License](https://github.com/ckeditor/ckeditor5/blob/master/LICENSE.md) GPL, not compatible with closed source code)
 * https://github.com/facebook/draft-js (from Facebook, but no tables support)
