@@ -4,6 +4,7 @@ My requirements:
 
 * open source (not GPL or AGPL)
 * easy to use is more important than many fancy features
+* Optional feature: Start a unordered list by just entering `* ` (without using buttons of the editor). This would be great.
 * No need to support old browsers. IE11 is dead.
 
 
@@ -14,6 +15,7 @@ Good:
 * https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220
 * https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k output=html
 * https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) used-by=50k history-support.
+* https://github.com/Alex-D/Trumbowyg based on jquery.
 
 Comparing above:
 
