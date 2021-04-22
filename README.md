@@ -12,7 +12,7 @@ Good:
 
 * https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean) used-by=440
 * https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. used-by=1.6k output=json
-* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220
+* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless.
 * https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k output=html
 * https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) used-by=50k history-support.
 * https://github.com/Alex-D/Trumbowyg based on jquery.
