@@ -16,7 +16,8 @@ Good:
 * https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k output=html
 * https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) used-by=50k history-support.
 * https://github.com/Alex-D/Trumbowyg based on jquery.
-* https://github.com/benweet/stackedit Supports `* ` (lists without using the menu. Even with sub-lists)
+* https://github.com/benweet/stackedit Markdown Supports `* ` (lists without using the menu. Even with sub-lists)
+* https://ui.toast.com/tui-editor Markdown. Supports `* `.
 
 Comparing above:
 
