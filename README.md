@@ -10,7 +10,7 @@ My requirements:
 
 Good:
 
-* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless.
+* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless (inline menu). "*" gets to nice bulletpoints. Favorite
 * https://github.com/benweet/stackedit Markdown Supports `* ` (lists without using the menu. Even with sub-lists)
 * https://ui.toast.com/tui-editor Markdown. Supports `* `.
 
