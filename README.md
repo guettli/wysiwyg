@@ -10,9 +10,10 @@ My requirements:
 
 Good:
 
-* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless (inline menu). "*" gets to nice bulletpoints. Favorite
+* https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless (inline menu). "*" gets to nice bulletpoints. 
 * https://github.com/benweet/stackedit Markdown Supports `* ` (lists without using the menu. Even with sub-lists)
 * https://ui.toast.com/tui-editor Markdown. Supports `* `.
+* https://github.com/ueberdosis/tiptap/ v2 arrived as beta. Looks cools. Favorite
 
 Comparing above:
 
@@ -37,7 +38,6 @@ Something is missing:
 * http://jejacks0n.github.io/mercury/documentation/ MIT License. No updates since 2014
 * https://github.com/yabwe/medium-editor/graphs/contributors no progress in the last year
 * https://github.com/nextcloud/text (AGPL License)
-* https://github.com/ueberdosis/tiptap/ v2 is coming soon: https://github.com/ueberdosis/tiptap/issues/547
 
 Commercial:
 
