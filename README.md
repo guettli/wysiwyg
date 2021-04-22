@@ -10,12 +10,7 @@ My requirements:
 
 Good:
 
-* https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean) used-by=440
-* https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. used-by=1.6k output=json
 * https://github.com/outline/rich-markdown-editor BSD License. Used by commercial company used-by=220. Supports `* ` and `1. `. menuless.
-* https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k output=html
-* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) used-by=50k history-support.
-* https://github.com/Alex-D/Trumbowyg based on jquery.
 * https://github.com/benweet/stackedit Markdown Supports `* ` (lists without using the menu. Even with sub-lists)
 * https://ui.toast.com/tui-editor Markdown. Supports `* `.
 
@@ -24,7 +19,11 @@ Comparing above:
 https://www.githubcompare.com/xdan/jodit+codex-team/editor.js+neilj/squire+quilljs/quill
 
 Something is missing:
-
+* https://quilljs.com/ no tables [dev staled](https://github.com/quilljs/quill/graphs/contributors) used-by=50k history-support.
+* https://github.com/Alex-D/Trumbowyg based on jquery.
+* https://github.com/codex-team/editor.js (Apache License) Nice TAB feature. With tables. Nice inline menu. used-by=1.6k output=json. No "* ...." support
+* https://xdsoft.net/jodit/ (supports tables), MIT License, looks good. But menu on top (inline menu like editor.js is more clean) used-by=440 not "* ...." support
+* https://github.com/neilj/Squire MIT License, Supports arbitrary HTML (to forward HTML mail in Fastmail). Strong company support. used-by=1k output=html [not "* ..." support](https://github.com/neilj/Squire/issues/408)
 * https://github.com/sparksuite/simplemde-markdown-editor Looks fine, but no updates since 2016
 * https://github.com/ianstormtaylor/slate (can show, but not edit tables. See [tables Example](https://www.slatejs.org/examples/tables)) [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec) used-by=55k. Does not feel fluent for me.
 * https://github.com/basecamp/trix (MIT License, from Basecamp, the creators of Ruby on Rails, no tables). No more much development: [graph](https://github.com/basecamp/trix/graphs/contributors) used-by=5k output=html
