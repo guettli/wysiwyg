@@ -14,6 +14,7 @@ Good:
 * https://github.com/benweet/stackedit Markdown Supports `* ` (lists without using the menu. Even with sub-lists)
 * https://ui.toast.com/tui-editor Markdown. Supports `* `.
 * https://github.com/ueberdosis/tiptap/ v2 arrived as beta. Looks cools. Favorite
+* https://hedgedoc.org/ Markdown. Supports Real-time collaboration
 
 Comparing above:
 
